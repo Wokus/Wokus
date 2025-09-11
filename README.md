@@ -4,7 +4,7 @@
 # Who I am  
 Hello, I am Andrés Ferreira. I'm a bilingual rookie programmer seeking the opportunity to become a professional and put to the test all the knowledge I gained through my studies.  
 
-This GitHub is mainly to display my **portfolio** (link) with the different projects I have taken part in during my studies.  
+This GitHub is mainly to display my [portfolio](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md) with the different projects I have taken part in during my studies.  
 
 Some of the technologies/tools featured in my Portfolio are:  
 
@@ -15,4 +15,4 @@ Some of the technologies/tools featured in my Portfolio are:
 - **Containers:** Docker  
 
 ### Contacts
-Linkedin:
+- [LinkedIn](https://www.linkedin.com/in/andrés-ferreira-díaz-7b6637247)  
