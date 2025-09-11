@@ -4,7 +4,7 @@
 # Sobre mí  
 Buenas, me llamo Andrés Ferreira. Soy un programador novato que desea volverse un profesional en este campo y poder poner en práctica todos los conocimientos que adquirí durante mis diversos estudios.  
 
-El propósito de este GitHub es principalmente funcionar como un [portfolio](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md) para mostrar los diferentes proyectos en los cuales participé durante los distintos estudios que cursé o que estoy cursando.  
+El propósito de este GitHub es principalmente funcionar como un [portfolio](https://github.com/Wokus/Portfolio/edit/main/README.md) para mostrar los diferentes proyectos en los cuales participé durante los distintos estudios que cursé o que estoy cursando.  
 
 Algunas de las tecnologías/herramientas presentes en mi Portfolio son:  
 
