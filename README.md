@@ -1,3 +1,5 @@
+- [Español](README.md)  
+- [English](README2.md)  
 
 # Sobre mí  
 Buenas, me llamo Andrés Ferreira. Soy un programador novato que desea volverse un profesional en este campo y poder poner en práctica todos los conocimientos que adquirí durante mis diversos estudios.  

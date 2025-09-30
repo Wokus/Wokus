@@ -1,5 +1,5 @@
-- [Español](README2.md)  
-- [English](README.md)  
+- [Español](README.md)  
+- [English](README2.md)  
 
 # Who I am  
 Hello, I am Andrés Ferreira. I'm a bilingual rookie programmer seeking the opportunity to become a professional and put to the test all the knowledge I gained through my studies.  
